@@ -1,0 +1,44 @@
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  background:black;
+  width: 105%;
+  margin-left: -8px;
+  margin-top: -8px;
+  color: grey;
+  font-size: 60px;
+}
+.len{
+  margin-left: -70px;
+}
+.lon{
+  margin-right: 20px;
+}
+.long{
+  background:grey;
+  height: 300px;
+  width: 105%;
+  margin-top:-50px ;
+  margin-left:-8px ;
+  font-size: 100px;
+  font-family:Courier New;
+}
+h1{
+  margin-left: 50px;
+}
+p{
+  margin-left: 75px;
+}
+a{
+   margin-left: 75px;
+}
+.men{
+  text-align: center;
+}
+.all{
+  background-color: pink;
+  margin-top:-67px;
+  margin-left: -8px;
+  width: 105%;
+}
